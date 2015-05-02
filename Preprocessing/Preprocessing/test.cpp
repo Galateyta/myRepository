@@ -1,5 +1,5 @@
 #include <iostream>
-#define TEST B
+#define TEST C
 	#if TEST == A
 		void test()
 		{
@@ -17,8 +17,8 @@
 		}
 	#endif
 
-/*
-#define B
+
+/*#define B
 #ifdef A
 	void test()
 	{
